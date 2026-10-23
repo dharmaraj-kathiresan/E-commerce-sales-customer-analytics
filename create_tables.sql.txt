@@ -1,0 +1,9 @@
+-- customers
+-- orders
+--order_items
+-- order_payments
+-- order_reviews
+-- products
+-- sellers
+-- geolocation
+-- product_category_translation
