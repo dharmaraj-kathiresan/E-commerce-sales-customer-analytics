@@ -1,0 +1,19 @@
+Power BI backup files
+
+*_Backup.pbix
+*.bak
+
+Temporary files
+
+*.tmp
+.temp
+~$
+
+Python cache
+
+pycache/
+*.pyc
+
+Local environment files
+
+.env
